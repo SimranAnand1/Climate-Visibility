@@ -39,4 +39,7 @@ def predict():
 
 
 if __name__ == "__main__":
-    app.run(host="0.0.0.0", port=8080, debug= True)
+    print("Starting the Flask server")
+    print("Flask application running on port 8062")
+    print("Click on the link to open the application: http://localhost:8062/")
+    app.run(host="0.0.0.0", port=8062, debug= True)
