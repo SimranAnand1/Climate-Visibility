@@ -10,3 +10,4 @@ testing_notebooks
 pre_project_implementation
 pred_files
 notebook
+.venv

@@ -2,7 +2,7 @@ from datetime import datetime
 import os
 
 
-AWS_S3_BUCKET_NAME = "visibility-bucket-im"
+AWS_S3_BUCKET_NAME ="climate-visibility123"  #"visibility-bucket-im"
 MONGO_DATABASE_NAME = "visibility"
 
 TARGET_COLUMN = "VISIBILITY"
