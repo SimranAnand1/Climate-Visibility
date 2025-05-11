@@ -133,10 +133,6 @@ dmypy.json
 #module for data upload
 /pre_project_implementation
 
-
-#local files
-training_artifacts/
-
 #keeping till finish
 flowchart
 docks
@@ -152,11 +148,6 @@ test.ipynb
 #prediction files 
 
 /pred_files
-
-artifacts
-
-#prediction artifact
-prediction_artifacts/
 
 #tests
 testing_notebooks/
